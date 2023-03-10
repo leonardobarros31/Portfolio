@@ -1,8 +1,9 @@
 import React from 'react'
 import { Cursor, useTypewriter } from "react-simple-typewriter"
-import BackgroundCircles from './BackgroundCircles';
-import profilePic from '../public/me.jpg';
-import Image from 'next/image';
+import BackgroundCircles from './BackgroundCircles'
+import profilePic from '../public/me.jpg'
+import Image from 'next/image'
+import Link from "next/link"
 
 
 type Props = {}
