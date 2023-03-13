@@ -12,8 +12,8 @@ function Hero({}: Props) {
    const [text, count] = useTypewriter({
       words: [
       "Olá, me chamo Leonardo Barros", 
-      "Cara-que-ama-jogos.tsx",
-      "<MasAdoraCodar />"],
+      "SneakerHead.tsx",
+      "<QueAdoraCodar />"],
       loop: true,
       delaySpeed: 2000,
    });

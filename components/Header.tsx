@@ -27,12 +27,17 @@ function Header() {
           bgColor="transparent"
         />
         <SocialIcon
-          url="https://linkedin.com/in/leonardobarros31"
+          url="https://github.com/leonardobarros31/"
           fgColor="gray"
           bgColor="transparent"
         />
         <SocialIcon
-          url="https://linkedin.com/in/leonardobarros31"
+          url="https://www.youtube.com/channel/UCaMGKJAr9v-cU5OLEu7wB-Q"
+          fgColor="gray"
+          bgColor="transparent"
+        />
+        <SocialIcon
+          url="https://www.instagram.com/lsbarros99/"
           fgColor="gray"
           bgColor="transparent"
         />
