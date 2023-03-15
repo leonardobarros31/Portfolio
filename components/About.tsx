@@ -16,7 +16,7 @@ const About = (props: Props) => {
 
       <div className="space-y-10 px-0 md:px-10">
         <h4 className="text-4xl font-semibold">Um <span className="underline decoration-[#537FE7]/50">pouco</span> sobre mim</h4>
-        <p className="text-base">
+        <p className="text-xl">
         Previsão de formação em Ciência da Computação, com 3 anos 
         de experiência de trabalho na area de suporte procurando 
         uma posição de nível de entrada em Desenvolvimento. 
