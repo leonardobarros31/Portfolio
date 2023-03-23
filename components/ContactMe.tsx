@@ -40,23 +40,6 @@ function ContactMe({ }: Props) {
             <p className="text-2xl">Rio de Janeiro, RJ</p>
           </div>
         </div>
-
-        {/* Input */}
-        <form onSubmit={handleSubmit(onSubmit)} className="flex flex-col space-y-2 w-fit mx-auto">
-        <div className="flex space-x-2">
-          <input {...register('name')} placeholder="Nome" className="contactInput" type="text" />
-          <input {...register('email')} placeholder="Email" className="contactInput" type="text" />
-        </div>
-
-        <input {...register('subject')} placeholder="Assunto" className="contactInput" type="text" />
-
-        <textarea {...register('message')} placeholder="Mensagem" className="contactInput" />
-        <button
-          type="submit"
-          className="bg-[#537FE7] py-5 px-10 rounded-md text-black font-bold text-lg">
-          Enviar
-        </button>
-      </form>
       </div>
     </div >
   );
