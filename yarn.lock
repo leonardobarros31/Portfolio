@@ -2990,6 +2990,7 @@ __metadata:
     react-hook-form: ^7.43.7
     react-simple-typewriter: ^5.0.1
     react-social-icons: ^5.15.0
+    tailwind-scrollbar: ^3.0.0
     tailwindcss: ^3.2.7
     typescript: 4.9.5
   languageName: unknown
@@ -3639,6 +3640,15 @@ __metadata:
     "@pkgr/utils": ^2.3.1
     tslib: ^2.5.0
   checksum: 8a9560e5d8f3d94dc3cf5f7b9c83490ffa30d320093560a37b88f59483040771fd1750e76b9939abfbb1b5a23fd6dfbae77f6b338abffe7cae7329cd9b9bb86b
+  languageName: node
+  linkType: hard
+
+"tailwind-scrollbar@npm:^3.0.0":
+  version: 3.0.0
+  resolution: "tailwind-scrollbar@npm:3.0.0"
+  peerDependencies:
+    tailwindcss: 3.x
+  checksum: b5e406bcbf62ac25abe81dc6d708a1209c2b636918711e315542845022a9a3a68a0a135c3bb24ae00d07dad3f0725c6587b2fd0b0fb57d20fcc105cf40adb3ca
   languageName: node
   linkType: hard
 
