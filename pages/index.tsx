@@ -8,7 +8,7 @@ import Skills from "../components/Skills";
 import Projects from "@/components/Projects";
 import ContactMe from "@/components/ContactMe";
 import Image from 'next/image';
-import Link from 'next/link'
+import Link from 'next/link';
 
 
 const inter = Inter({ subsets: ["latin"] });

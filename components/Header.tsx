@@ -32,11 +32,6 @@ function Header() {
           bgColor="transparent"
         />
         <SocialIcon
-          url="https://www.youtube.com/channel/UCaMGKJAr9v-cU5OLEu7wB-Q"
-          fgColor="gray"
-          bgColor="transparent"
-        />
-        <SocialIcon
           url="https://www.instagram.com/lsbarros99/"
           fgColor="gray"
           bgColor="transparent"
